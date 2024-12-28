@@ -6,13 +6,13 @@ By answering these questions, we could help investors in making informed decisio
 
 * Which genres of movies are more popular than others? 
 * What budget range is most effective for maximizing audience engagement in niche genres? 
-Which had the highest customer rating for the movies? 
-What types of movies are most popular per each dollar of investment? 
-What types of movies are most appreciated by the customers? 
-What are the trends following revenue, cost and customer rating in terms of genre 
-Which had the highest customer rating for the movies. 
-How much money would a movie require to achieve the highest popularity in its specific genre? 
-Which genre of movies provide average revenue to cost? 
-Which genres have more budgets? 
+* Which had the highest customer rating for the movies? 
+* What types of movies are most popular per each dollar of investment? 
+* What types of movies are most appreciated by the customers? 
+* What are the trends following revenue, cost and customer rating in terms of genre 
+* Which had the highest customer rating for the movies. 
+* How much money would a movie require to achieve the highest popularity in its specific genre? 
+* Which genre of movies provide average revenue to cost? 
+* Which genres have more budgets? 
 
 
