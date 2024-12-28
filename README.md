@@ -4,8 +4,8 @@ Goal: To enable potential investors to make data-driven decisions by understandi
 
 By answering these questions, we could help investors in making informed decisions about what types of movies are worth investing in.
 
-Which genres of movies are more popular than others? 
-What budget range is most effective for maximizing audience engagement in niche genres? 
+* Which genres of movies are more popular than others? 
+* What budget range is most effective for maximizing audience engagement in niche genres? 
 Which had the highest customer rating for the movies? 
 What types of movies are most popular per each dollar of investment? 
 What types of movies are most appreciated by the customers? 
